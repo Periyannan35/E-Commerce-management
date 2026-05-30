@@ -1,4 +1,7 @@
 {
+  "scripts": {
+    "vercel-build": "cd client && npm install && npm run build"
+  },
   "dependencies": {
     "autoprefixer": "^10.5.0",
     "axios": "^1.16.1",
