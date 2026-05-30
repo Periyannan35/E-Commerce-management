@@ -1,0 +1,39 @@
+{
+  "users": [
+    {
+      "_id": "1e7e5e97-5d30-4d26-894d-4e1eeca20a82",
+      "name": "Admin",
+      "email": "admin@admin.com",
+      "password": "$2a$10$HjqN9hubw.qgqxCfm8Wr.eFnTvPQcu6LIexIfEm8.NPbwIB.ocOXy",
+      "role": "admin",
+      "createdAt": "2026-05-30T02:15:55.289Z"
+    }
+  ],
+  "products": [
+    {
+      "_id": "d0f39584-2050-4500-9538-adfc25aa31ea",
+      "title": "Basic Tee",
+      "description": "A comfortable cotton shirt for everyday wear.",
+      "price": 19.99,
+      "image": "",
+      "createdAt": "2026-05-30T02:15:55.290Z"
+    },
+    {
+      "_id": "4fff2f1e-b9ca-4c3e-abbf-08c6235f337e",
+      "title": "Casual Sneakers",
+      "description": "Lightweight shoes for walking and weekend outings.",
+      "price": 49.99,
+      "image": "",
+      "createdAt": "2026-05-30T02:15:55.290Z"
+    },
+    {
+      "_id": "6a31e7e1-82ab-41c3-8fa9-4e964c7b65d6",
+      "title": "Coffee Mug",
+      "description": "Modern ceramic mug for a clean desk setup.",
+      "price": 12.99,
+      "image": "",
+      "createdAt": "2026-05-30T02:15:55.290Z"
+    }
+  ],
+  "orders": []
+}
